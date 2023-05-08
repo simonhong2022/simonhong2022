@@ -52,7 +52,7 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I play squash, ski, football, and hiking.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seongbong-hong-080293121/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Simon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seongbong-hong-080293121/)
 
 ---
 

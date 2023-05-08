@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif?cid=ecf05e4779kjd3xb3krwkaa9g7ogeffxj0asbmp7bvm8q11r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ---

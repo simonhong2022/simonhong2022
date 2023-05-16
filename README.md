@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Korea.
 
-- :telescope: I’m working as a Software Developer and contributing to frontend(React/NEXT) and backend(Java) for building web applications at </Salt>.
+- :telescope: I’m working as a Software Developer and contributing to frontend(React/NEXT) and backend(Java) for building web applications at `</Salt>`.
 
 - :seedling: Exploring Database for Statistics.
 
